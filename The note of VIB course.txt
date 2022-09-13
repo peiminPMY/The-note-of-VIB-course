@@ -1,4 +1,48 @@
+Project: The note of Git hub
 The goal of this course
 1.keep a dictionary of important terms
 2.Wirte a tirtorial cjeatsheet
 3.In the end of the day
+
+Git resository
+commit a change=>
+
+Git hub = Backup og your timeline
+Git is the backup of the timeline what you present
+Turn on Git batch
+$ cd Documents/Git\ hub\ course/
+# make the gitbath go to the file we want
+$ls
+#show the list of the file
+$ git init
+#update to the ungit
+and refresh the ungit
+
+Note the/ in gitbath \in ungit
+
+Where do you work with => now is inmy labtop
+My PC
+1.Develop Area => for expam;e is The note of VIB course
+
+2.Creat local repository => git creat for you
+
+3. Staging area=> a channel that help us prepare the document to somewhere
+$ git add
+#
+Saving permanently
+$ git commit -m"meaningful message" 
+What is meaningful=>
+1.Why was it change
+2.How this address the issue
+3.Effects due the change
+4.Liminations of changes
+Be descriptive!!!
+
+$ git commit -m "message"
+# Git can add the file to staging Area(Channel) 
+$ git config --global user.email "peiminyeh@gmail.com" # Email enter
+$ git config --global user.name "Peimin Yeh" # user name
+$ git commit -m"meaningful message" # commit again 
+
+$ git commit-m"message"
+#git ssent it to Local repos.
