@@ -38,7 +38,7 @@ What is meaningful=>
 4.Liminations of changes
 Be descriptive!!!
 
-$ git commit -m "message"
+$ git commit-m"message"
 # Git can add the file to staging Area(Channel) 
 $ git config --global user.email "peiminyeh@gmail.com" # Email enter
 $ git config --global user.name "Peimin Yeh" # user name
@@ -50,3 +50,12 @@ $ git commit-m"message"
 Why do we write a commit message
 Will help you or someone else the has access to it, to understand the context of change and update
 What happens if we forgot about the '-m' when commiting a file
+# Pop up editor 
+
+Quizs
+How can I travel within the timeline
+Do some search to find out how you can move from one commit to another and back
+$ git log
+#show the history all commit
+  Who when  the message written
+S git checkout <add commit ID >
