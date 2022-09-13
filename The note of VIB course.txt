@@ -1,0 +1,4 @@
+The goal of this course
+1.keep a dictionary of important terms
+2.Wirte a tirtorial cjeatsheet
+3.In the end of the day
