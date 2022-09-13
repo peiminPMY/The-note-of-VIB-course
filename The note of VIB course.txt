@@ -46,3 +46,7 @@ $ git commit -m"meaningful message" # commit again
 
 $ git commit-m"message"
 #git ssent it to Local repos.
+
+Why do we write a commit message
+Will help you or someone else the has access to it, to understand the context of change and update
+What happens if we forgot about the '-m' when commiting a file
