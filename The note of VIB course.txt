@@ -59,3 +59,7 @@ $ git log
 #show the history all commit
   Who when  the message written
 S git checkout <add commit ID >
+
+Notes from himanshu.
+1. clone a repository from your friend into your local machine.
+2. make the changes. commit the changes and push the changes.
